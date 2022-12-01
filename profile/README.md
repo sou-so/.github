@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/68415905/204304547-05dc3ea6-d249-4208-a2af-3868e6c0fa3b.png" alt="Logo" width="80" > 
   <h1>소년소녀들의 모임, 소소 SOUSO</h1>
   <p>
-    <a href="souso.netlify.app/">배포 주소 바로가기</a>
+    <a href="https://souso.netlify.app/">배포 주소 바로가기</a>
     ·
     <a href=" ">시연 영상</a>
   </p>
