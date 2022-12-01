@@ -95,13 +95,14 @@
 
 ### FRONTEND
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp;&nbsp;
+- JavaScript, React
 
 ### BACKEND
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=black">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black">&nbsp;&nbsp;
+- Java 11, Spring Boot, JPA, QueryDSL
+- MySQL, Redis
+- AWS, Docker, CI/CD, Nginx(https redirect)
+- 외부 API(cool sms)
 
 <br/>
 
