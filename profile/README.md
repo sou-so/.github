@@ -4,7 +4,7 @@
   <p>
     <a href="souso.netlify.app/">배포 주소 바로가기</a>
     ·
-    <a href="https://www.notion.so/prose-club/13-75035d7b26f648719b09d062f94474c3">프로젝트 보고서 바로가기</a>
+    <a href=" ">시연 영상</a>
   </p>
 
 </div>
@@ -93,11 +93,11 @@
 
 ## 기술 스택
 
-### FRONTEND
+### [FRONTEND](https://github.com/sou-so/Souso_Client)
 
 - JavaScript, React
 
-### BACKEND
+### [BACKEND](https://github.com/sou-so/Souso-Server)
 
 - Java 11, Spring Boot, JPA, QueryDSL
 - MySQL, Redis
