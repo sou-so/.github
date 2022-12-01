@@ -2,7 +2,7 @@
 <div align="center">
   <h1>소년소녀들의 모임, 소소 SOUSO</h1>
   <p>
-    <a href="https://souso.netlify.app/">배포 주소 바로가기</a>
+    <a href="https://souso.co.kr">배포 주소 바로가기</a>
     ·
     <a href="https://www.notion.so/prose-club/13-75035d7b26f648719b09d062f94474c3">프로젝트 보고서 바로가기</a>
   </p>
