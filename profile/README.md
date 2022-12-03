@@ -96,8 +96,7 @@
 
 ### [FRONTEND](https://github.com/sou-so/Souso_Client)
 
-- React
-- Javascript
+- React 18, Javascript
 - Axios, React-Query
 - styled-components
 
