@@ -5,7 +5,7 @@
   <p>
     <a href="https://souso.netlify.app/">배포 주소 바로가기</a>
     ·
-    <a href=" ">시연 영상</a>
+    <a href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/43765a89-a7e3-477f-980e-b386c506bcea/%EC%86%8C%EC%86%8C_%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221203%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221203T073338Z&X-Amz-Expires=86400&X-Amz-Signature=6ae222eef177c990f7abacfa82b9e4ab4debbf2ed6c920d810be7989a53231b7&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22%25EC%2586%258C%25EC%2586%258C%2520%25EC%258B%259C%25EC%2597%25B0%25EC%2598%2581%25EC%2583%2581.mp4%22&x-id=GetObject">시연 영상</a>
   </p>
 
 </div>
