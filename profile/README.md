@@ -5,7 +5,7 @@
   <p>
     <a href="https://souso.netlify.app/">배포 주소 바로가기</a>
     ·
-    <a href="https://youtu.be/iMeWLZHzalU">시연 영상</a>
+    <a href="https://youtu.be/-884siNKkXY">시연 영상</a>
   </p>
 
 </div>
