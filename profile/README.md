@@ -96,7 +96,10 @@
 
 ### [FRONTEND](https://github.com/sou-so/Souso_Client)
 
-- JavaScript, React
+- React
+- Javascript
+- Axios, React-Query
+- styled-components
 
 ### [BACKEND](https://github.com/sou-so/Souso-Server)
 
