@@ -104,7 +104,7 @@
 
 - Java 11, Spring Boot, JPA, QueryDSL
 - MySQL, Redis
-- AWS, Docker, CI/CD, Nginx(https redirect)
+- AWS, Docker, CI/CD, Nginx+Cerbot/SSL
 - 외부 API(cool sms)
 
 <br/>
