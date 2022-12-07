@@ -110,10 +110,6 @@
 <br/>
 
 ## 프로젝트 기획서
-![image](https://user-images.githubusercontent.com/74492426/205088859-4a821700-7037-49c1-ae97-0c99980ddc2f.png)
-![image](https://user-images.githubusercontent.com/74492426/205088933-b3c056ca-f0cd-47b0-9efc-3477c0505378.png)
-![image](https://user-images.githubusercontent.com/74492426/205089006-2a6a895b-e308-4099-bd16-7e5a5e7cd7c5.png)
-![image](https://user-images.githubusercontent.com/74492426/205089042-918ad90b-ea00-4b1c-aee2-05ad59834b01.png)
-![image](https://user-images.githubusercontent.com/74492426/205089070-b584c571-1308-43df-ad61-2d34dc1787c2.png)
+![image](https://user-images.githubusercontent.com/68415905/206088768-136122de-2d80-47a9-86bb-8f192078bab0.jpg)
 
 
